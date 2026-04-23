@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![git (2)](https://github.com/user-attachments/assets/6cc671e8-6a45-40c9-bd65-410b0b5b6907)
